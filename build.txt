@@ -1,0 +1,4 @@
+displayName = Hammer Mode
+author = MythicPhoenixx
+version = 1.3.2
+includeSource = true

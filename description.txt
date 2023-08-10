@@ -1,0 +1,30 @@
+Tired of having to hammer blocks multiple times just to get the slope or half block you want? Well then Hammer Mode is the mod for you!
+Hammer Mode allows you to select which slope a block should be hammered to.
+
+All you have to do is press the configured hotkey (mouse 2 / right click by default) while holding any hammer to bring up a grand design-like menu.
+Simply click on one of the options to select a mode.
+An icon will be shown next to your cursor to show which mode is currently selected.
+To disable hammer mode, select the currently enabled mode in the menu again. When hammer mode is disabled, hammers will regain their vanilla Terraria behaviour.
+
+Hammer mode also features a 'only-break-walls' mode. When this mode is enabled you can't hammer any blocks and can only break walls.
+When another mode is active, breaking walls will be prevented.
+
+This mod should be compatible with other mods. Please let me know if you find any issues.
+
+--- Changelog ---
+
+1.3.1, 1.3.2:
+ - Fixed hammer mode not working on actuated tiles
+ - Fixed wall mode issue with actuated tiles
+
+1.3.0:
+ - Updated to 1.4.4
+ - Added extra check to prevent menu from opening when hovering over interactable tile (Chests, bed, etc)
+
+1.2.0:
+ - UI overhaul, hammer mode now featues a grand design-like menu
+
+1.1.0:
+ - Added a wall mode, when enabled you can only break walls. When another mode is active you cannot break any walls
+ - Added configurable hotkey (mouse 2 / right click by default). You still have to hold a hammer to change modes
+ - Hammer mode now works on platforms
